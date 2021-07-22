@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgrabber.a  CMakeFiles/grabber.dir/src/grabber.cpp.o
+/usr/bin/ranlib libgrabber.a

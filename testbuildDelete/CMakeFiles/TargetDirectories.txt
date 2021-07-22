@@ -1,0 +1,4 @@
+/home/asif/Desktop/CANdataTest-beta/testbuildDelete/CMakeFiles/edit_cache.dir
+/home/asif/Desktop/CANdataTest-beta/testbuildDelete/CMakeFiles/rebuild_cache.dir
+/home/asif/Desktop/CANdataTest-beta/testbuildDelete/CMakeFiles/calibrator.dir
+/home/asif/Desktop/CANdataTest-beta/testbuildDelete/CMakeFiles/grabber.dir
